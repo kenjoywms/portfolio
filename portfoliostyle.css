@@ -1,3 +1,13 @@
 body {
     background:maroon;
 }
+#example{
+    font-size: 7rem;
+    color: black;
+    font-family:'Times New Roman', Times, serif
+}
+#dislikes{ 
+    font-size: 7rem;
+    color:black;
+    font-family:'Times New Roman', Times, serif
+}
