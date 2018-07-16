@@ -11,7 +11,7 @@ body {
     color:black;
     font-family:'Times New Roman', Times, serif
 }
-
+/* TODO: Be carefult to include a semi-colon (;) after every property, because the styles are broken if you don't. */
 #Villanova{
     width:25ch
     padding:3em;
