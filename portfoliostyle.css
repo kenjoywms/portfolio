@@ -1,24 +1,57 @@
 body {
-    background:maroon;
+    background: tomato;
 }
-#example{
-    font-size: 5rem;
-    color: black;
-    font-family:'Times New Roman', Times, serif
+
+#example {
+    font-size: 2rem;
+    color:ghostwhite;
+    font-family:  'Chela One', cursive;
 }
-#dislikes{ 
-    font-size: 7rem;
-    color:black;
-    font-family:'Times New Roman', Times, serif
+
+h1 {
+    font-family: 'Indie Flower', cursive;
+    color: honeydew
 }
+
+#dislikes {
+    font-size: 2rem;
+    color: ghostwhite;
+    font-family: 'Chela One', cursive;
+}
+a:hover {
+    opacity:50%;
+    color:white;
+}
+a:hover:visted {
+    opacity:50%;
+    color:white;
+}
+
+
 /* TODO: Be carefult to include a semi-colon (;) after every property, because the styles are broken if you don't. */
-#Villanova{
-    width:25ch
-    padding:3em;
-    float:right;
 
-
-
-
-
+#Villanova {
+    width: 15%;
+    float: right;
 }
+
+#animation {
+    animation-name: appear;
+    
+    animation-duration: 10s;
+}
+
+@keyframes appear {
+    0% {
+        transform: scale(0.1);
+        opacity: 0;
+    }
+    50% {
+        transform: scale(.5);
+        opacity: .5;
+    }
+    100% {
+        transform: scale(.75);
+        opacity: 1;
+    }
+    
