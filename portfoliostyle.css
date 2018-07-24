@@ -6,6 +6,7 @@ body {
     font-size: 2rem;
     color:ghostwhite;
     font-family:  'Chela One', cursive;
+    float: left;
 }
 
 h1 {
@@ -27,9 +28,6 @@ a:hover:visted {
     opacity:50%;
     color:white;
 }
-
-
-/* TODO: Be carefult to include a semi-colon (;) after every property, because the styles are broken if you don't. */
 
 #animation {
     width: 50%;
@@ -55,3 +53,4 @@ a:hover:visted {
         transform: scale(.75);
         opacity: 1;
     }
+    
