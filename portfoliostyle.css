@@ -57,3 +57,7 @@ a:hover:visted {
     font-family:  'Indie Flower', cursive;
     color: honeydew
 }
+img {
+ max-width: 100%;
+ height: auto;
+}
