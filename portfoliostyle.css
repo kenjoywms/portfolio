@@ -7,6 +7,7 @@ body {
     color:ghostwhite;
     font-family:  'Chela One', cursive;
     float: left;
+    width: 350px;
 }
 
 h1 {
@@ -19,6 +20,7 @@ h1 {
     color: ghostwhite;
     font-family: 'Chela One', cursive;
     float: left;
+    width: 350px;
 }
 a:hover {
     opacity:50%;
@@ -29,15 +31,12 @@ a:hover:visted {
     color:white;
 }
 
-#animation {
-    width: 50%;
-    float: right;
-}
 
 #animation {
     animation-name: appear;
-    
     animation-duration: 10s;
+    float:right;
+    width:400px;
 }
 
 @keyframes appear {
