@@ -1,0 +1,41 @@
+Portfolio final grade: 77
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 79
+(50% of overall grade)
+
+Points deducted for these items:
+    -3 Default document title not changes on 3 pages.
+    -2 Broken tags on Resume page.
+    -2 Broken/extraneous tags on Project page.
+    -3 Navigation block in <head> on Contact page.
+    -1 Invalid id property on <title> on Contact page.
+    -10 Duplicate full html pasted inside <body> on About page.
+
+
+########
+
+Design and Accessibility:  Does incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 95
+(25% of overall grade)
+
+Points deducted for these items:
+    -5 Duplicate CSS blocks (#dislike and #example) could be combined into one class.
+
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 55
+(25% of overall grade)
+
+Points deducted for these items:
+    -50 Media queries not used for Mobile responsive design.
+
+Bonus points awarded for these items:
+    +5 for including CSS choices which partially compensate for the lack of Media queries.
