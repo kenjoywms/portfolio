@@ -1,5 +1,7 @@
 Portfolio final grade: 77
 
+Comments:  This is a decent first pass effort.  Don't forget to pay attention to consistency and making sure you html tags aren't broken.
+
 ########
 
 Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
